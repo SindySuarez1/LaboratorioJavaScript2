@@ -1,3 +1,4 @@
+console.log("Programa que calcula la propina de un restaurante")
 function calcularPropina(total, porcentaje){
     propina = (total * porcentaje)/100;
     total = propina + total;

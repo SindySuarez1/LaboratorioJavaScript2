@@ -1,4 +1,4 @@
-
+console.log("Programa que valida contraseña")
 
 function validarContraseña(contraseña){
     const ochoCaracteres = contraseña.length >= 8;
