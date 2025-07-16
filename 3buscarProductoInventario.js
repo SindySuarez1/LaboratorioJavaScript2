@@ -18,5 +18,5 @@ function buscarProducto(nombre, inventario){
 }
 return null;
 }
-let producto = buscarProducto("osso")
+let producto = buscarProducto("camisa")
 console.log(producto)
