@@ -1,4 +1,5 @@
 console.log("Programa que calcula si una lista de personas tienen más de 18 años")
+
 let listaUsuarios = [
     {nombre: "Estella", edad: 30},
     {nombre: "Sandra", edad: 15},
